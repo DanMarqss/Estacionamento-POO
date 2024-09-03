@@ -1,4 +1,5 @@
-// Estacionamento.cs
+using Estacionamento.Models; // Adicione esta linha para referenciar o namespace correto
+
 namespace Estacionamento
 {
     public class Estacionamento

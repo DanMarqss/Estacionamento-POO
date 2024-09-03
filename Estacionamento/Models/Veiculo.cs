@@ -1,4 +1,3 @@
-// Models/Veiculo.cs
 namespace Estacionamento.Models
 {
     public class Veiculo
